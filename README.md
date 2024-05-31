@@ -11,3 +11,9 @@ Side project to emulate SAME70 ROM code using Qiling
 > git apply QilingCortexM7Support_SAME70ROM_Fuzzer.patch  
 > pip install .
 
+![ROM](./emulator.png)  
+
+![Fuzzing](./fuzz.png) 
+
+
+Ref: https://0x01team.com blog
